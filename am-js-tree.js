@@ -13,6 +13,9 @@
                 });
             }
 
+            this.$onDestroy = () => {
+                $element.jstree('destroy');
+            };
         }
     }
 
