@@ -7,8 +7,7 @@
     "Avi Meslati <avim101@gmail.com>"
   ],
   "description": "Ultra Light Angulsr Component that wraps jsTree library.",
-  "keywords": ["Angular","JsTree","angular component","angular jsTree","ui", "tree", "jstree"]
-  ],
+  "keywords": ["Angular","JsTree","angular component","angular jsTree","ui", "tree", "jstree"],
   "license": "MIT",
   "ignore": [
     "**/.*",
