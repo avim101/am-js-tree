@@ -8,8 +8,8 @@ Ultra Light Angular Component that wraps [jsTree] library.
 
 
 The amJsTree depends on the following libraries:
-*   jQuery
-*   Angular >= 1.5.x
+*   jquery >= 1.9.1
+*   angular >= 1.5.x
 *   JsTree
 
 
