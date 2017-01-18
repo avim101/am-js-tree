@@ -28,7 +28,7 @@ npm install am-js-tree --save
 ```
 
 
-or you can add the ngJsTree.min.js file to your HTML page:
+or you can add the amJsTree.min.js file to your HTML page:
 ```html
 <script src="jquery.js"/>
 <script src="angular-1.5.x.js"/>
@@ -38,6 +38,11 @@ or you can add the ngJsTree.min.js file to your HTML page:
 
 Add the `amJsTree` to your module dependencies
 
+```javascript
+
+ angular.module('myApp',['amJsTree'])
+
+```
 
 #Documentation
 
