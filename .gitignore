@@ -48,5 +48,6 @@ bower_components/
 *.log
 
 build/
-dist/
 
+.gitignore
+.idea/

@@ -6,7 +6,7 @@
   "authors": [
     "Avi Meslati <avim101@gmail.com>"
   ],
-  "description": "Ultra Light Angulsr Component that wraps jsTree library.",
+  "description": "Light Angular Component that wraps jsTree library.",
   "keywords": ["Angular","JsTree","angular component","angular jsTree","ui", "tree", "jstree"],
   "license": "MIT",
   "ignore": [
@@ -18,6 +18,7 @@
   ],
   "dependencies": {
     "jquery": ">=1.9.1",
-    "angular": ">=1.5.0"
+    "angular": ">=1.5.0",
+    "jstree": ">=3.3.3"
   }
 }

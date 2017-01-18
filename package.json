@@ -1,0 +1,27 @@
+{
+  "name": "am-js-tree",
+  "version": "1.0.0",
+  "description": "Light Angular Component that wraps jsTree library.",
+  "main": "./dist/am-js-tree.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avim101/am-js-tree.git"
+  },
+  "keywords": [
+
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1",
+    "angular": ">=1.5.0",
+    "jstree": ">=3.3.3"
+  },
+  "author": "\"Avi Meslati <avim101@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avim101/am-js-tree/issues"
+  },
+  "homepage": "https://github.com/avim101/am-js-tree#readme"
+}
