@@ -1,7 +1,7 @@
 am-js-tree
 ========
 
-Ultra Light Angular Component that wraps [jsTree] library.
+Light Angular Component that wraps [jsTree] library.
 
 
 ##Dependencies
