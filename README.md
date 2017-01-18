@@ -1,7 +1,7 @@
 am-js-tree
 ========
 
-Ultra Light Angular Component that wraps [jsTree] library.
+Light Angular Component that wraps [jsTree] library.
 
 
 ##Dependencies
@@ -10,7 +10,7 @@ Ultra Light Angular Component that wraps [jsTree] library.
 The amJsTree depends on the following libraries:
 *   jquery >= 1.9.1
 *   angular >= 1.5.x
-*   jstree >= 3.3.3 (tested on version 3.3.3 may support in older versions as well)
+*   jstree >= 3.3.3 (tested on version 3.3.3 may support older versions as well)
 
 
 ##Install
