@@ -26,7 +26,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         };
     };
 
-    angular.module('amJsTree').component('amJsTree', {
+    angular.module('amJsTree', []).component('amJsTree', {
         bindings: { config: '<' },
         controller: ['$element', AmJsTree],
         controllerAs: 'amJsTreeCtrl'
