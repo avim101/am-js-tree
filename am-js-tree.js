@@ -19,7 +19,7 @@
         }
     }
 
-    angular.module('amJsTree')
+    angular.module('amJsTree',[])
         .component('amJsTree', {
             bindings: {config: '<'},
             controller: ['$element', AmJsTree],
