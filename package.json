@@ -10,9 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/avim101/am-js-tree.git"
   },
-  "keywords": [
-
-  ],
+  "keywords": ["Angular","JsTree","angular component","angular jsTree","ui", "tree", "jstree"],
   "dependencies": {
     "jquery": ">=1.9.1",
     "angular": ">=1.5.0",
