@@ -1,5 +1,7 @@
 
 [![npm version](https://badge.fury.io/js/am-js-tree.svg)](https://badge.fury.io/js/am-js-tree)
+[![Bower version](https://badge.fury.io/bo/am-js-tree.svg)](https://badge.fury.io/bo/am-js-tree)
+https://npmjs.org/package/ng-js-tree
  
 am-js-tree
 ========
