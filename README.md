@@ -1,3 +1,6 @@
+
+[![npm version](https://badge.fury.io/js/am-js-tree.svg)](https://badge.fury.io/js/am-js-tree)
+ 
 am-js-tree
 ========
 
