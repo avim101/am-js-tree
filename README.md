@@ -1,7 +1,7 @@
 
 [![npm version](https://badge.fury.io/js/am-js-tree.svg)](https://badge.fury.io/js/am-js-tree)
 [![Bower version](https://badge.fury.io/bo/am-js-tree.svg)](https://badge.fury.io/bo/am-js-tree)
-https://npmjs.org/package/ng-js-tree
+[![Dependency Status](https://gemnasium.com/badges/github.com/avim101/am-js-tree.svg)](https://gemnasium.com/github.com/avim101/am-js-tree)
  
 am-js-tree
 ========
