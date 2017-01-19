@@ -10,6 +10,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _classCallCheck(this, AmJsTree);
 
+        this.config = this.config || {};
         $element.jstree(this.config);
         if (this.config.hasOwnProperty('events')) {
             angular.forEach(this.config.events, function (v, k) {
