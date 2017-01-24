@@ -118,7 +118,7 @@ Example:
 
   angular.module('myApp')
     .component('myComponent', {
-      controller: ['$element', MyComponent]
+      controller: [MyComponent]
     });
 
 })();
@@ -158,7 +158,7 @@ Example:
 
   angular.module('myApp')
     .component('myComponent', {
-      controller: ['$element', MyComponent]
+      controller: [MyComponent]
     });
 
 })();
