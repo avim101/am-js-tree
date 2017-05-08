@@ -9,7 +9,7 @@ am-js-tree
 Light Angular Component that wraps [jsTree] library.
 
 
-##Dependencies
+## Dependencies
 
 
 The amJsTree depends on the following libraries:
@@ -18,7 +18,7 @@ The amJsTree depends on the following libraries:
 *   jstree >= 3.3.3 (tested on version 3.3.3 may support older versions as well)
 
 
-##Install
+## Install
 
 
 You can install the amJsTree via bower:
@@ -49,7 +49,7 @@ Add the `amJsTree` to your module dependencies
 
 ```
 
-#Documentation
+# Documentation
 
 The main purpose for this wrapper is to integrate easily jsTree in your angular application and work 
 with the jsTree api exactly as if you were using the jquery plugin.
