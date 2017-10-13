@@ -1,6 +1,6 @@
 {
   "name": "am-js-tree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Light Angular Component that wraps jsTree library.",
   "main": "./dist/am-js-tree.min.js",
   "scripts": {
